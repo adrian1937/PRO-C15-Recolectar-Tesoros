@@ -1,1 +1,1 @@
-# PRO-C15-Recolectar-Tesoros.
+# PRO-C15-Recolectar-Tesoros
